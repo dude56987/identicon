@@ -1,0 +1,10 @@
+Package: identicon-bash
+Version: 0.1
+Section: admin
+Maintainer: Harald Lapp <harald@octris.org>
+Installed-Size: 24
+Priority: optional
+Architecture: all
+Depends: bc (>=1.0), imagemagick (>=6.7), bash (>=4.0)
+Description: Creates an identicon based on a hash value.
+ An Identicon is a visual representation of a hash value. Please have a look at http://en.wikipedia.org/wiki/Identicon for a detailed explanation of identicons and have a look at the https://github.com/aurora/identicon/wiki/Examples for some generated example identicons. 
